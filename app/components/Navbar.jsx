@@ -40,12 +40,6 @@ const Navbar = () => {
         >
           Home
         </Link>
-        <Link
-          href="/ExerciseDetail"
-          style={{ textDecoration: "none", color: "#3A1212" }}
-        >
-          Exercises
-        </Link>
       </Stack>
     </Stack>
   );
